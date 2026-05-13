@@ -25,7 +25,6 @@ public class selectionSort {
             if (nums[j] < nums[min_index]) {
                 min_index = j;
             }
-
             int temp = nums[i];
             nums[i]=nums[min_index];
             nums[min_index] = temp;
