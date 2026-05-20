@@ -1,7 +1,5 @@
 package Interview;
 
-import javax.swing.text.StyledEditorKit;
-
 public class second_number {
 
     public static void secondLarge(int[] arr){ 
