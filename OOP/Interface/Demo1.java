@@ -11,9 +11,9 @@ class Demo2 implements Demo1{
     }
 }
 
-class main{
-    public static void main(String args[]){
-        Demo2 d1 = new Demo2();
-        d1.m1();
-    }
-}
+// class main{
+//     public static void main(String args[]){
+//         Demo2 d1 = new Demo2();
+//         d1.m1();
+//     }
+// }

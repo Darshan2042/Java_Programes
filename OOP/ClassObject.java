@@ -8,9 +8,9 @@ public class ClassObject {
     }
 }
 
-class main{
-    public static void main(String args[]){
-        ClassObject ob = new ClassObject();
-        ob.m1();
-    }
-}
+// class main{
+//     public static void main(String args[]){
+//         ClassObject ob = new ClassObject();
+//         ob.m1();
+//     }
+// }
