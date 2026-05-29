@@ -10,7 +10,7 @@ class Demo implements FunctionalInterfaces{
         System.out.println("Method Override Sucessfully..");
     }
 }
-class mainclass{
+class Mainclass{
     public static void main(String args[]){
         Demo d1 = new Demo();
         d1.m1();
