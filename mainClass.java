@@ -1,14 +1,22 @@
-// class mainClass{
-//     public static void main(String args[]){
-//         Node n1 = new Node(10);
-//         Node n2 = new Node(20);
-//         Node n3 = new Node(30);
+import java.util.*;
+class mainClass{
+    public static void main(String args[]){
+        int[][] arr = {{10,25},{55,67},{70,61}};
+        List<Integer> li = new ArrayList<>();
+        // for(int[] row : arr){
+        //     for(int num : row){
+        //         li.add(num);
+        //     }
+        // }
+        // System.out.println(li);
 
-//         n1.next = n2;
-//         n2.next = n3;
-
-//         System.out.println(n1.data);
-//         System.out.println(n1.next.data);
-//         System.out.println(n1.next.next.data);
-//     }
-// }
+        for(int[] row : arr){
+            for(int num : row){
+                if(num % 2 ==0){
+                    li.add(num);
+                }
+            }
+        }
+        System.out.println(li);
+    }
+}
