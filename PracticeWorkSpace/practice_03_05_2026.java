@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 public class practice_03_05_2026{
     public static boolean  isprime(int n){
         if(n <= 1){

@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 class Demo {
 
     // Method that returns an integer

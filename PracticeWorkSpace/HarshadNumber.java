@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 import java.util.ArrayList;
 
 public class HarshadNumber {

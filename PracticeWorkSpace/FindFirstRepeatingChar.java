@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 import java.util.HashMap;
 public class FindFirstRepeatingChar {
     public char Demo(String s){

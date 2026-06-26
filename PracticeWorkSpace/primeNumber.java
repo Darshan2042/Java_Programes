@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 public class primeNumber {
     boolean checkPrime(int n){
             if (n < 2) {

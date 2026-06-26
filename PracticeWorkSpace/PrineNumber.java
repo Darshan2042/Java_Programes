@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 public class PrineNumber{
 	public static void main(String[] args){
 		int n = 19;

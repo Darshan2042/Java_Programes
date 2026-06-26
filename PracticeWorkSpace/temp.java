@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 class temp{
     public static void main(String args[]){
         int fact = 1;

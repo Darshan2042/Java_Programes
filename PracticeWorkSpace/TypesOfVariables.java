@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 class Car {
 
     // Static variable (shared by all cars)

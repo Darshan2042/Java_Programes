@@ -1,6 +1,6 @@
+package PracticeWorkSpace;
 import java.util.Arrays;
 import java.util.HashSet;
-
 public class Find_duplicate {
 
     // public int duplicateElement(int[] arr){

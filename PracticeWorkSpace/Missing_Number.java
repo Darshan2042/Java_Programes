@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 import java.util.*;
 public class Missing_Number {
     public int usingMath(int[] nums){

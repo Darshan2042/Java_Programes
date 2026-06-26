@@ -1,5 +1,5 @@
 // import java.util.Arrays;
-
+package PracticeWorkSpace;
 public class timepass {
 
     public static void main(String args[]){

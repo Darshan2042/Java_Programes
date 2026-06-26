@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 public class perfectsquare {
     boolean perfectSquarecheck(int n){
         if (n<0){
