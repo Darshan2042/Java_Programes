@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 public class check{
     public static void main(String args[]){
         int[] nums = {50,40,60,50,40,20,10};

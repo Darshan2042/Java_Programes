@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 public class Evenodd{
     public static void main(String[]args){
         int arr[] = {2,4,5,6,8,78,2,15,5};

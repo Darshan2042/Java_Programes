@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 public class array {
     public static void main(String args[]){
         int primes[] = new int[50];

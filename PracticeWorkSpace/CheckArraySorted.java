@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 class CheckArraySorted {
     public boolean isSorted(int arr[], int index) {
         if (index == arr.length - 1) {

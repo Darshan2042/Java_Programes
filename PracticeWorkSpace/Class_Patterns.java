@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 public class Class_Patterns{
     public static void main(String[] args) {
 

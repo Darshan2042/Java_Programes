@@ -1,3 +1,4 @@
+package PracticeWorkSpace;
 import java.util.HashMap;
 class count_occurence{
     public static void main(String args[]){
