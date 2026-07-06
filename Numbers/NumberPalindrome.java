@@ -1,5 +1,7 @@
+import java.util.ArrayList;
+
 public class NumberPalindrome {
-    public void check(int num){
+    public boolean check(int num){
         int org = num;
         int rev = 0;
         while(num > 0){
@@ -7,15 +9,22 @@ public class NumberPalindrome {
             rev = rev * 10 + digit;
             num /= 10;
         }
-        if(rev == org){
-            System.out.println("Number is Palindrome: "+org);
+        return org ==  rev;
+    }
+
+    public ArrayList<Integer> Range(int start, int end){
+        ArrayList<Integer> arr = new ArrayList<>();
+        for(int i=start ; i <=end ; i++){
+            if(check(i)){
+                arr.add(i);
+            }
         }
-        else{
-            System.out.println("Number is Not Palindrome: "+org);
-        }
+        return arr;
+
     }
     public static void main(String args[]){
         NumberPalindrome np = new NumberPalindrome();
         np.check(11221);
+        System.out.println(np.Range(1,500));
     }
 }
