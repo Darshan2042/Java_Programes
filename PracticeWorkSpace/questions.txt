@@ -1,0 +1,116 @@
+1. Array / Two Pointer Pattern
+
+* Two Sum
+* Best Time to Buy and Sell Stock
+* Contains Duplicate
+* Product of Array Except Self
+* Maximum Subarray (Kadane’s Algorithm )
+* Move Zeroes
+* 3Sum (Very important for interviews)
+
+
+ 2. Sliding Window Pattern
+
+* Longest Substring Without Repeating Characters 
+* Maximum Sum Subarray of Size K
+* Longest Repeating Character Replacement
+* Minimum Window Substring (Hard but very important)
+
+ 3. Binary Search Pattern
+
+
+* Binary Search
+* Search in Rotated Sorted Array 
+* Find Peak Element
+* First Bad Version
+* Koko Eating Bananas (VERY IMPORTANT)
+
+
+4. Recursion + Backtracking
+
+
+* Subsets ⭐
+* Permutations ⭐
+* Combination Sum
+* N-Queens (Advanced)
+* Generate Parentheses ⭐
+
+
+
+5. Linked List Pattern
+
+
+* Reverse Linked List ⭐
+* Merge Two Sorted Lists
+* Linked List Cycle
+* Remove Nth Node from End
+* Middle of Linked List
+
+
+6. Tree / Binary Tree Pattern
+
+
+* Maximum Depth of Binary Tree
+* Same Tree
+* Binary Tree Level Order Traversal ⭐
+* Lowest Common Ancestor
+* Diameter of Binary Tree ⭐
+
+
+7. Heap / Priority Queue
+
+
+* Kth Largest Element in Array ⭐
+* Top K Frequent Elements ⭐
+* Merge K Sorted Lists
+* Find Median from Data Stream (Advanced)
+
+
+8. Dynamic Programming (DP)
+
+
+* Climbing Stairs ⭐
+* House Robber ⭐
+* Coin Change
+* Longest Increasing Subsequence
+* 0/1 Knapsack (concept)
+
+
+9. String Pattern
+
+
+* Valid Anagram
+* Longest Palindromic Substring ⭐
+* String to Integer (atoi)
+* Group Anagrams ⭐
+
+10. Graph Pattern
+
+
+* Number of Islands ⭐
+* Clone Graph
+* Course Schedule ⭐
+* BFS / DFS traversal
+
+
+
+
+ Most Important Interview Combo (TOP 15)
+
+1. Two Sum
+2. Maximum Subarray
+3. Longest Substring Without Repeating Characters
+4. Search in Rotated Sorted Array
+5. Subsets
+6. Permutations
+7. Reverse Linked List
+8. Linked List Cycle
+9. Binary Tree Level Order Traversal
+10. Diameter of Binary Tree
+11. Kth Largest Element
+12. Top K Frequent Elements
+13. Climbing Stairs
+14. House Robber
+15. Number of Islands
+
+
