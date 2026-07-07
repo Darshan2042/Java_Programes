@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class AutomorphicNumber {
     public boolean isAutomorphic(int num) {
         int square = num * num;
@@ -15,7 +14,6 @@ public class AutomorphicNumber {
         }
         return square % divisor == num;
     }
-
     public ArrayList<Integer> Range(int start , int end){
         ArrayList<Integer> arr = new ArrayList<>();
         for(int i = start ; i<= end ; i++){
@@ -25,7 +23,6 @@ public class AutomorphicNumber {
         }
         return arr;
     }
-
     public int NthAutomorphicNumber(int n){
         int count = 0;
         int num = 0;
